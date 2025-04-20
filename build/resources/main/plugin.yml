@@ -1,0 +1,4 @@
+name: LybimkiCraft
+version: '1.0-SNAPSHOT'
+main: ru.yumiyulili.lybimkiCraft.LybimkiCraft
+api-version: '1.21'
